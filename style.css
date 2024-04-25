@@ -1,0 +1,28 @@
+.grid{
+    height: 300px;
+    width: 560px;
+    border: 1px solid black;
+    position: absolute;
+}
+
+.block{
+    height: 20px;
+    width: 100px;
+    background-color:chocolate;
+    position: absolute;
+}
+
+.user{
+    height: 20px;
+    width: 100px;
+    background-color:blue;
+    position: absolute;
+}
+
+.ball{
+    position:absolute;
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    background-color:black;
+}
